@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nikola // Systems & Software Engineer 🚀
+# Tesla // Systems & Software Engineer 🚀
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Polymath+Software+Engineer+%26+Architect;Exploring+AI%2FML+%7C+Low-Level+Systems+%7C+Cybersecurity;Building+Resilient+Fullstack+%26+Data+Pipelines;Driven+by+insatiable+curiosity.+Never+stop+learning.)](https://git.io/typing-svg)
 
