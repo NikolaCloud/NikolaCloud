@@ -80,12 +80,18 @@
 ### 📊 Активность и статистика GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikolaCloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaCloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="155" />
+  <img src="https://raw.githubusercontent.com/NikolaCloud/NikolaCloud/main/assets/portfolio-stats.svg" width="100%" alt="Polymath Engineering Matrix" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NikolaCloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="165" alt="NikolaCloud GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NikolaCloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="165" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolaCloud&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" />
+  <img src="https://streak-stats.demolab.com/?user=NikolaCloud&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
 
 ---
